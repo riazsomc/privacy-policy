@@ -1,6 +1,6 @@
 **Privacy Policy for AI Agent Application**
 
-_Last Updated: 21 December 2024
+Last Updated: 21 December 2024
 
 ### **Introduction**
 Welcome to AI Agent Application! Your privacy is important to us, and we are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information in connection with our Facebook App and related services.
